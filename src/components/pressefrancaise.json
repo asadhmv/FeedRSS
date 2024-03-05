@@ -1,0 +1,5820 @@
+[
+  {
+    "id": 1,
+    "title": "Ouest-France.fr - A la une",
+    "url": "http://www.ouest-france.fr/rss-en-continu.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Ouest-France.fr - Monde-France",
+    "url": "http://www.ouest-france.fr/rss.xml?insee=FRA",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Ouest-France.fr - Bretagne",
+    "url": "http://www.ouest-france.fr/rss.xml?region=Bretagne",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Ouest-France.fr - Normandie",
+    "url": "http://www.ouest-france.fr/rss.xml?region=Normandie",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Ouest-France.fr - Pays de la Loire",
+    "url": "http://www.ouest-france.fr/rss.xml?region=pays-de-la-loire",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Ouest-France.fr - Sports",
+    "url": "http://www.ouest-france.fr/rss-en-continu.xml?tid=75707",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Ouest-France.fr - Loisirs",
+    "url": "http://www.ouest-france.fr/rss-en-continu.xml?tid=75258",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Courrierdelouest.fr - Maine et Loire",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/21007/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Courrierdelouest.fr - Deux Sèvres",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/21008/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Courrierdelouest.fr - Tous les sports",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/20987+20990+20988+20989/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Courrierdelouest.fr - Cholet",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/20979/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Courrierdelouest.fr - Saumur",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/20980/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Courrierdelouest.fr - Segré",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/20981/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Courrierdelouest.fr - Niort",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/20983/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Courrierdelouest.fr - Bressuire",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/20984/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Courrierdelouest.fr - Parthenay",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/20985/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Courrierdelouest.fr - Thouars",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/20986/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Courrierdelouest.fr - Baugé-en-Anjou",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/130450/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Courrierdelouest.fr - Beaufort-en-vallée",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/130455/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Courrierdelouest.fr - Chalonnes-sur-Loire",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/130455/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Courrierdelouest.fr - Saint-Macaire-en-Mauge",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/130445/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Courrierdelouest.fr - Trélazé",
+    "url": "http://www.courrierdelouest.fr/taxonomy/term/130440/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Lemainelibre.fr - Sarthe",
+    "url": "http://www.lemainelibre.fr/taxonomy/term/21011/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Lemainelibre.fr - Tous les sports",
+    "url": "http://www.lemainelibre.fr/taxonomy/term/25+24+26+27/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Lemainelibre.fr - Le Mans",
+    "url": "http://www.lemainelibre.fr/taxonomy/term/19/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Lemainelibre.fr - Château-du-Loir",
+    "url": "http://www.lemainelibre.fr/taxonomy/term/21/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Lemainelibre.fr - La Ferté",
+    "url": "http://www.lemainelibre.fr/taxonomy/term/18/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Lemainelibre.fr - La Flèche",
+    "url": "http://www.lemainelibre.fr/taxonomy/term/22/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Lemainelibre.fr - Mamers",
+    "url": "http://www.lemainelibre.fr/taxonomy/term/17/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Lemainelibre.fr - Sablé",
+    "url": "http://www.lemainelibre.fr/taxonomy/term/23/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "PresseOcean.fr - Loire Atlantique",
+    "url": "http://www.presseocean.fr/taxonomy/term/20990/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "PresseOcean.fr - Tous les sports",
+    "url": "http://www.presseocean.fr/taxonomy/term/21214+20983+27/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "PresseOcean.fr - Nantes",
+    "url": "http://www.presseocean.fr/taxonomy/term/20985/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "PresseOcean.fr - Saint-Nazaire",
+    "url": "http://www.presseocean.fr/taxonomy/term/20986/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "LeDauphine.fr - A la une",
+    "url": "http://www.ledauphine.com/actualite/a-la-une/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité nationale",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "LeDauphine.fr - Ain",
+    "url": "http://www.ledauphine.com/ain/ain/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "LeDauphine.fr - Haute-Provence",
+    "url": "http://www.ledauphine.com/haute-provence",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "LeDauphine.fr - Haute-Alpes",
+    "url": "http://www.ledauphine.com/hautes-alpes",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "LeDauphine.fr - Ardèche",
+    "url": "http://www.ledauphine.com/ardeche/ardeche/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "LeDauphine.fr - Drôme",
+    "url": "http://www.ledauphine.com/drome/drome/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "LeDauphine.fr - Isère-Sud",
+    "url": "http://www.ledauphine.com/isere-sud/isere-sud/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "LeDauphine.fr - Isère-Nord",
+    "url": "http://www.ledauphine.com/isere-nord/isere-nord/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "LeDauphine.fr - Savoie",
+    "url": "http://www.ledauphine.com/savoie/savoie/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "LeDauphine.fr - Haute-Savoie",
+    "url": "http://www.ledauphine.com/haute-savoie/haute-savoie/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "LeDauphine.fr - Vaucluse",
+    "url": "http://www.ledauphine.com/vaucluse/vaucluse/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "LeDauphine.fr - Entreprise",
+    "url": "http://www.ledauphine.com/economie-et-finance/economie-et-finance/entreprises/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "LeProgres.fr - A la une",
+    "url": "http://www.leprogres.fr/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité nationale",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "LeProgres.fr - Rhône",
+    "url": "http://www.leprogres.fr/rhone-69/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "LeProgres.fr - Loire",
+    "url": "http://www.leprogres.fr/loire-42/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "LeProgres.fr - Haute-Loire",
+    "url": "http://www.leprogres.fr/haute-loire-43/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "LeProgres.fr - Ain",
+    "url": "http://www.leprogres.fr/ain-01/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "LeProgres.fr - Jura",
+    "url": "http://www.leprogres.fr/jura-39/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "LeProgres.fr - France-Monde",
+    "url": "http://www.leprogres.fr/france-monde/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "LeProgres.fr - Politique",
+    "url": "http://www.leprogres.fr/politique/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "LeProgres.fr - Economie",
+    "url": "http://www.leprogres.fr/economie/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "LeProgres.fr - Sports",
+    "url": "http://www.leprogres.fr/sports/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 57,
+    "title": "DNA.fr - A la une",
+    "url": "http://www.dna.fr/une-region/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 58,
+    "title": "DNA.fr - Sports",
+    "url": "http://www.dna.fr/sports/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 59,
+    "title": "DNA.fr - Culture",
+    "url": "http://www.dna.fr/une-culture/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sciences, culture, arts et média",
+      "Actualité vie quotidienne, santé et auto-moto",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 60,
+    "title": "DNA.fr - Fraits divers",
+    "url": "http://www.dna.fr/une-faits-divers/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 61,
+    "title": "EstRepublicain.fr - A la une",
+    "url": "http://www.estrepublicain.fr/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 62,
+    "title": "EstRepublicain.fr - Sports",
+    "url": "http://www.estrepublicain.fr/sport-lorrain/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 63,
+    "title": "EstRepublicain.fr - Sports franc-comtois",
+    "url": "http://www.estrepublicain.fr/sport-franc-comtois/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 64,
+    "title": "EstRepublicain.fr - France-Monde",
+    "url": "http://www.estrepublicain.fr/actualite/france-monde/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité nationale",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 65,
+    "title": "EstRepublicain.fr - Faits divers",
+    "url": "http://www.estrepublicain.fr/faits-divers/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 66,
+    "title": "EstRepublicain.fr - Economie",
+    "url": "http://www.estrepublicain.fr/economie+actualite/france-monde/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 67,
+    "title": "EstRepublicain.fr - Art et culture",
+    "url": "http://www.estrepublicain.fr/art-et-culture/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 68,
+    "title": "EstRepublicain.fr - Santé et médecine",
+    "url": "http://www.estrepublicain.fr/sante-et-medecine/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 69,
+    "title": "EstRepublicain.fr - Education",
+    "url": "http://www.estrepublicain.fr/education/l-actu-de-l-educ/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité éducation, études formation et emploi"
+    ]
+  },
+  {
+    "id": 70,
+    "title": "LePoint.fr - A la une",
+    "url": "http://www.lepoint.fr/24h-infos/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 71,
+    "title": "LePoint.fr - Actualités",
+    "url": "http://www.lepoint.fr/content/system/rss/24H/24H_doc.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité nationale"
+    ]
+  },
+  {
+    "id": 72,
+    "title": "LePoint.fr - Insolites",
+    "url": "http://www.lepoint.fr/insolite/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 73,
+    "title": "LePoint.fr - Monde",
+    "url": "http://www.lepoint.fr/content/system/rss/24H/24H_doc.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 74,
+    "title": "LePoint.fr - Politique",
+    "url": "http://www.lepoint.fr/politique/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 75,
+    "title": "LePoint.fr - Société",
+    "url": "http://www.lepoint.fr/content/system/rss/24H/24H_doc.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 76,
+    "title": "LePoint.fr - Sports",
+    "url": "http://www.lepoint.fr/sport/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 77,
+    "title": "LePoint.fr - Art de vivre",
+    "url": "http://www.lepoint.fr/content/system/rss/24H/24H_doc.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité Style, déco, famille et mode de vie"
+    ]
+  },
+  {
+    "id": 78,
+    "title": "LePoint.fr - Gastronomie",
+    "url": "http://www.lepoint.fr/gastronomie/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité Style, déco, famille et mode de vie"
+    ]
+  },
+  {
+    "id": 79,
+    "title": "LePoint.fr - Voyages",
+    "url": "http://www.lepoint.fr/content/system/rss/24H/24H_doc.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 80,
+    "title": "LePoint.fr - Culture",
+    "url": "http://www.lepoint.fr/culture/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 81,
+    "title": "LePoint.fr - Arts",
+    "url": "http://www.lepoint.fr/content/system/rss/24H/24H_doc.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 82,
+    "title": "LePoint.fr - Cinéma",
+    "url": "http://www.lepoint.fr/cinema/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 83,
+    "title": "LePoint.fr - Livres",
+    "url": "http://www.lepoint.fr/content/system/rss/24H/24H_doc.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 84,
+    "title": "LePoint.fr - Musique",
+    "url": "http://www.lepoint.fr/musique/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 85,
+    "title": "LePoint.fr - Diaporamas",
+    "url": "http://www.lepoint.fr/content/system/rss/24H/24H_doc.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 86,
+    "title": "LePoint.fr - Economie",
+    "url": "http://www.lepoint.fr/economie/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 87,
+    "title": "LePoint.fr - Argent",
+    "url": "http://www.lepoint.fr/content/system/rss/24H/24H_doc.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 88,
+    "title": "LePoint.fr - Bourse",
+    "url": "http://www.lepoint.fr/bourse/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 89,
+    "title": "LePoint.fr - Immobilier",
+    "url": "http://www.lepoint.fr/content/system/rss/24H/24H_doc.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 90,
+    "title": "LePoint.fr - Les chroniqueurs et éditorialistes",
+    "url": "http://www.lepoint.fr/chroniques/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 91,
+    "title": "LePoint.fr - Médias 2.0",
+    "url": "http://www.lepoint.fr/content/system/rss/24H/24H_doc.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité politique, débats et dossiers",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 92,
+    "title": "LePoint.fr - Défense ouverte",
+    "url": "http://www.lepoint.fr/chroniqueurs-du-point/jean-guisnel/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité internationale",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 93,
+    "title": "LePoint.fr - Tech&Net",
+    "url": "http://www.lepoint.fr/content/system/rss/24H/24H_doc.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité numérique"
+    ]
+  },
+  {
+    "id": 94,
+    "title": "LePoint.fr - Planète Appli",
+    "url": "http://www.lepoint.fr/high-tech-internet/planete-appli/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité énergie et environnement"
+    ]
+  },
+  {
+    "id": 95,
+    "title": "Lexpress.fr - A la une",
+    "url": "http://www.lexpress.fr/rss/alaune.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 96,
+    "title": "Lexpress.fr - Politique",
+    "url": "http://www.lexpress.fr/rss/politique.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 97,
+    "title": "Lexpress.fr - Société",
+    "url": "http://www.lexpress.fr/rss/societe.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 98,
+    "title": "Lexpress.fr - Monde",
+    "url": "http://www.lexpress.fr/rss/monde.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 99,
+    "title": "Lexpress.fr - Science et santé",
+    "url": "http://www.lexpress.fr/rss/science-et-sante.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité sciences, culture, arts et média",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Lexpress.fr - Culture",
+    "url": "http://www.lexpress.fr/rss/culture.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 101,
+    "title": "Lexpress.fr - Sport",
+    "url": "http://www.lexpress.fr/rss/sport.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Lexpress.fr - Education",
+    "url": "http://www.lexpress.fr/rss/education.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité éducation, études formation et emploi"
+    ]
+  },
+  {
+    "id": 103,
+    "title": "Lexpress.fr - Emploi",
+    "url": "http://www.lexpress.fr/rss/emploi.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité éducation, études formation et emploi"
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Lexpress.fr - Styles",
+    "url": "http://www.lexpress.fr/rss/styles.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité Style, déco, famille et mode de vie"
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Lexpress.fr - Tendances",
+    "url": "http://www.lexpress.fr/rss/tendances.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité Style, déco, famille et mode de vie"
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Lexpress.fr - Insolite",
+    "url": "http://www.lexpress.fr/rss/insolite.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Lexpress.fr - Médias",
+    "url": "http://www.lexpress.fr/rss/medias.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Lexpress.fr - Vie pratique",
+    "url": "http://www.lexpress.fr/rss/viepratique.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 109,
+    "title": "Lexpress.fr - Régions",
+    "url": "http://www.lexpress.fr/rss/regions.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Lexpress.fr - Enquete",
+    "url": "http://www.lexpress.fr/rss/enquete.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Lexpress.fr - Vidéo",
+    "url": "http://www.lexpress.fr/rss/videos.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Lexpress.fr - Nos dossiers",
+    "url": "http://www.lexpress.fr/rss/dossiers.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Lexpress.fr - Blogs",
+    "url": "http://www.lexpress.fr/rss/opinions.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 114,
+    "title": "Lexpress.fr - Christophe Barbier",
+    "url": "http://www.lexpress.fr/rss/edito-video-christophe-barbier.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 115,
+    "title": "Lexpansion.lexpress.fr - A la une",
+    "url": "https://lexpansion.lexpress.fr/rss/lexpansion.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Lentreprise.lexpress.fr - Actualité",
+    "url": "https://lentreprise.lexpress.fr/rss/actualite.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité nationale"
+    ]
+  },
+  {
+    "id": 117,
+    "title": "Votreargent.lexpress.fr - Argent",
+    "url": "https://votreargent.lexpress.fr/rss/votre-argent.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Marianne.net - A la une",
+    "url": "https://www.marianne.net/rss_choix_des_redactions.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Valeursactuelles.com - A la une",
+    "url": "http://www.valeursactuelles.com/taxonomy/term/0/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 120,
+    "title": "Valeursactuelles.com - Politique",
+    "url": "http://www.valeursactuelles.com/taxonomy/term/1/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 121,
+    "title": "Valeursactuelles.com - Monde",
+    "url": "http://www.valeursactuelles.com/taxonomy/term/2/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 122,
+    "title": "Valeursactuelles.com - Economie",
+    "url": "http://www.valeursactuelles.com/taxonomy/term/3/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Valeursactuelles.com - Société",
+    "url": "http://www.valeursactuelles.com/taxonomy/term/4/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 124,
+    "title": "Valeursactuelles.com - Science",
+    "url": "http://www.valeursactuelles.com/taxonomy/term/34/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Valeursactuelles.com - Culture",
+    "url": "http://www.valeursactuelles.com/taxonomy/term/35/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Valeursactuelles.com - Histoire",
+    "url": "http://www.valeursactuelles.com/taxonomy/term/36/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Valeursactuelles.com - Faits divers",
+    "url": "http://www.valeursactuelles.com/taxonomy/term/37/feed",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Presse magazine",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Lesechos.fr - Le Journal du jour",
+    "url": "https://www.lesechos.fr/rss/rss_articles_journal.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale"
+    ]
+  },
+  {
+    "id": 129,
+    "title": "Lesechos.fr - A la Une des Echos.fr",
+    "url": "https://www.lesechos.fr/rss/rss_une_titres.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale"
+    ]
+  },
+  {
+    "id": 130,
+    "title": "Lesechos.fr - Politique",
+    "url": "https://syndication.lesechos.fr/rss/rss_politique_societe.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 131,
+    "title": "Lesechos.fr - Economie",
+    "url": "https://syndication.lesechos.fr/rss/rss_france.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 132,
+    "title": "Lesechos.fr - Monde",
+    "url": "https://syndication.lesechos.fr/rss/Echos_monde.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Lesechos.fr - Tech-Medias",
+    "url": "https://syndication.lesechos.fr/rss/rss_tech_medias.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 134,
+    "title": "Lesechos.fr - Industrie Service",
+    "url": "https://syndication.lesechos.fr/rss/rss_industries_services.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 135,
+    "title": "Lesechos.fr - Finance Marché",
+    "url": "https://syndication.lesechos.fr/rss/rss_finance-marches.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Lesechos.fr - PME-Régions",
+    "url": "https://syndication.lesechos.fr/rss/rss_pme-innovation.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 137,
+    "title": "Lesechos.fr - Idées",
+    "url": "https://syndication.lesechos.fr/rss/rss_idee.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Lesechos.fr - Patrimoine",
+    "url": "https://syndication.lesechos.fr/rss/rss_echos-patrimoine.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 139,
+    "title": "Lesechos.fr - Sport",
+    "url": "https://syndication.lesechos.fr/rss/rss_sports.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 140,
+    "title": "Lesechos.fr - Automobile",
+    "url": "https://syndication.lesechos.fr/rss/rss_automobile.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 141,
+    "title": "Lesechos.fr - Tourisme - Transport",
+    "url": "https://syndication.lesechos.fr/rss/rss_transports.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Lesechos.fr - Aéronautique - Défense",
+    "url": "https://syndication.lesechos.fr/rss/rss_aero.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Lesechos.fr - Conso - Distribution",
+    "url": "https://syndication.lesechos.fr/rss/rss_conso.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Lesechos.fr - Mode - Luxe",
+    "url": "https://syndication.lesechos.fr/rss/rss_mode_luxe.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Lesechos.fr - Energie - Environnement",
+    "url": "https://syndication.lesechos.fr/rss/rss_energie-environnement.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité énergie et environnement"
+    ]
+  },
+  {
+    "id": 146,
+    "title": "Lesechos.fr - Pharmacie - Santé",
+    "url": "https://syndication.lesechos.fr/rss/rss_sante.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Lesechos.fr - Services - Conseil",
+    "url": "https://syndication.lesechos.fr/rss/rss_service.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Lesechos.fr - Immobilier - BTP",
+    "url": "https://syndication.lesechos.fr/rss/rss_immobilier_btp.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Lesechos.fr - Industrie Lourde",
+    "url": "https://syndication.lesechos.fr/rss/rss_industrie.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 150,
+    "title": "Lesechos.fr - Le Cercle Les Echos",
+    "url": "https://syndication.lesechos.fr/rss/rss_lecercle.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 151,
+    "title": "Lesechos.fr - Les Blogs",
+    "url": "https://syndication.lesechos.fr/rss/rss_blogs.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 152,
+    "title": "Lesechos.fr - Editos et Analyses",
+    "url": "https://syndication.lesechos.fr/rss/rss_editos_analyses.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale"
+    ]
+  },
+  {
+    "id": 153,
+    "title": "Lesechos.fr - Les vidéos des Echos",
+    "url": "https://syndication.lesechos.fr/rss/rss_videos_lesechos.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 154,
+    "title": "Lesechos.fr - Les + lus",
+    "url": "https://syndication.lesechos.fr/rss/rss_plus_consultes.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale"
+    ]
+  },
+  {
+    "id": 155,
+    "title": "Lesechos.fr - La Une des Echos Week-End",
+    "url": "https://syndication.lesechos.fr/rss/rss_lesechos_week_end.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale"
+    ]
+  },
+  {
+    "id": 156,
+    "title": "Lesechos.fr - Les articles de Série Limitée",
+    "url": "https://syndication.lesechos.fr/rss/rss_serie_limitee.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 157,
+    "title": "Lesechos.fr - Une des Echos Business",
+    "url": "https://business.lesechos.fr/rss/rss_une.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 158,
+    "title": "Lesechos.fr - Direction Générale",
+    "url": "https://business.lesechos.fr/rss/dg.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 159,
+    "title": "Lesechos.fr - DRH",
+    "url": "https://business.lesechos.fr/rss/drh.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Lesechos.fr - DAF",
+    "url": "https://business.lesechos.fr/rss/daf.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 161,
+    "title": "Lesechos.fr - Direction Maketing",
+    "url": "https://business.lesechos.fr/rss/dm.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Lesechos.fr - Direction Numérique",
+    "url": "https://business.lesechos.fr/rss/dn.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Lesechos.fr - Entrepreneurs",
+    "url": "https://business.lesechos.fr/rss/entrepreneur.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 164,
+    "title": "Lesechos.fr - Infos des Marchés",
+    "url": "https://investir.lesechos.fr/RSS/info-marches-investir-bourse-les-echos.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Lesechos.fr - Analyses et Opinions",
+    "url": "https://investir.lesechos.fr/RSS/analyses-opinions.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 166,
+    "title": "Lesechos.fr - Les ch@ts de la rédaction d'investir",
+    "url": "https://investir.lesechos.fr/RSS/chat-investir.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 167,
+    "title": "Lesechos.fr - L'info des matières premières",
+    "url": "https://investir.lesechos.fr/RSS/matieres-premieres.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Lesechos.fr - Analyses de séance",
+    "url": "https://investir.lesechos.fr/RSS/analyse-seance-paris-new-york-tokyo.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité internationale",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Lesechos.fr - A ne pas manquer demain",
+    "url": "https://investir.lesechos.fr/RSS/ne-pas-manquer-demain.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 170,
+    "title": "Lesechos.fr - Info valeurs",
+    "url": "https://investir.lesechos.fr/RSS/info-valeurs-investir-bourse-les-echos.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité internationale",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 171,
+    "title": "Lesechos.fr - Conseils et avis d'experts",
+    "url": "https://investir.lesechos.fr/RSS/conseils-avis-experts.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 172,
+    "title": "Lesechos.fr - Conseils du jour",
+    "url": "https://investir.lesechos.fr/RSS/conseils-jour.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 173,
+    "title": "Lesechos.fr - Recos des analystes",
+    "url": "https://investir.lesechos.fr/RSS/recos-analystes.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 174,
+    "title": "Lesechos.fr - Rumeurs",
+    "url": "https://investir.lesechos.fr/RSS/rumeurs.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 175,
+    "title": "Lesechos.fr - Conseils warrants",
+    "url": "https://investir.lesechos.fr/RSS/warrants-conseils.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 176,
+    "title": "Lesechos.fr - A la Une des Echos START",
+    "url": "https://start.lesechos.fr/rss/rss_une.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers",
+      "Actualité internationale",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 177,
+    "title": "Investir.lesechos.fr - A la une",
+    "url": "https://investir.lesechos.fr/RSS/investir-bourse-les-echos.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 178,
+    "title": "Leparisien.fr - Toute l’actualité",
+    "url": "http://www.leparisien.fr/actualites-a-la-une.rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers",
+      "Actualité internationale",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 179,
+    "title": "Leparisien.fr - À la une",
+    "url": "http://www.leparisien.fr/une/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 180,
+    "title": "Leparisien.fr - Politique",
+    "url": "http://www.leparisien.fr/politique/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 181,
+    "title": "Leparisien.fr - Faits divers",
+    "url": "http://www.leparisien.fr/faits-divers/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 182,
+    "title": "Leparisien.fr - Économie",
+    "url": "http://www.leparisien.fr/economie/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 183,
+    "title": "Leparisien.fr - Société",
+    "url": "http://www.leparisien.fr/societe/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 184,
+    "title": "Leparisien.fr - Loisirs & Spectacles",
+    "url": "http://www.leparisien.fr/loisirs-et-spectacles/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 185,
+    "title": "Leparisien.fr - Médias & People",
+    "url": "http://www.leparisien.fr/actualite-people-medias/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 186,
+    "title": "Leparisien.fr - International",
+    "url": "http://www.leparisien.fr/international/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 187,
+    "title": "Leparisien.fr - Automobile",
+    "url": "http://www.leparisien.fr/automobile/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 188,
+    "title": "Leparisien.fr - Environnement",
+    "url": "http://www.leparisien.fr/environnement/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité énergie et environnement"
+    ]
+  },
+  {
+    "id": 189,
+    "title": "Leparisien.fr - High-Tech",
+    "url": "http://www.leparisien.fr/high-tech/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 190,
+    "title": "Leparisien.fr - Voyages",
+    "url": "http://www.leparisien.fr/voyages/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 191,
+    "title": "Leparisien.fr - Paris",
+    "url": "http://www.leparisien.fr/paris-75/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 192,
+    "title": "Leparisien.fr - Oise",
+    "url": "http://www.leparisien.fr/oise-60/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 193,
+    "title": "Leparisien.fr - Hauts-de-Seine",
+    "url": "http://www.leparisien.fr/hauts-de-seine-92/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 194,
+    "title": "Leparisien.fr - Seine-Saint-Denis",
+    "url": "http://www.leparisien.fr/seine-saint-denis-93/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 195,
+    "title": "Leparisien.fr - Val-de-Marne",
+    "url": "http://www.leparisien.fr/val-de-marne-94/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 196,
+    "title": "Leparisien.fr - Essonne",
+    "url": "http://www.leparisien.fr/essonne-91/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 197,
+    "title": "Leparisien.fr - Yvelines",
+    "url": "http://www.leparisien.fr/yvelines-78/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 198,
+    "title": "Leparisien.fr - Seine-et-Marne",
+    "url": "http://www.leparisien.fr/seine-et-marne-77/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 199,
+    "title": "Leparisien.fr - Val-d'Oise",
+    "url": "http://www.leparisien.fr/val-d-oise-95/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 200,
+    "title": "Leparisien.fr - Transports en Ile-de-France",
+    "url": "http://www.leparisien.fr/transports/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 201,
+    "title": "Leparisien.fr - Bas-Rhin",
+    "url": "http://www.leparisien.fr/bas-rhin-67/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 202,
+    "title": "Leparisien.fr - Bouches-du-Rhône",
+    "url": "http://www.leparisien.fr/bouches-du-rhone-13/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 203,
+    "title": "Leparisien.fr - Gironde",
+    "url": "http://www.leparisien.fr/gironde-33/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 204,
+    "title": "Leparisien.fr - Haute-Garonne",
+    "url": "http://www.leparisien.fr/haute-garonne-31/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 205,
+    "title": "Leparisien.fr - Hérault",
+    "url": "http://www.leparisien.fr/herault-34/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 206,
+    "title": "Leparisien.fr - Loire-Atlantique",
+    "url": "http://www.leparisien.fr/loire-atlantique-44/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 207,
+    "title": "Leparisien.fr - Loiret",
+    "url": "http://www.leparisien.fr/loiret-45/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 208,
+    "title": "Leparisien.fr - Marne",
+    "url": "http://www.leparisien.fr/marne-51/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 209,
+    "title": "Leparisien.fr - Nord",
+    "url": "http://www.leparisien.fr/nord-59/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 210,
+    "title": "Leparisien.fr - Puy-de-Dôme",
+    "url": "http://www.leparisien.fr/puy-de-dome-63/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 211,
+    "title": "Leparisien.fr - Rhône",
+    "url": "http://www.leparisien.fr/rhone-69/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 212,
+    "title": "Leparisien.fr - Seine-Maritime",
+    "url": "http://www.leparisien.fr/seine-maritime-76/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 213,
+    "title": "Leparisien.fr - Toute l'actualité sportive",
+    "url": "http://www.leparisien.fr/sports/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 214,
+    "title": "Leparisien.fr - PSG Foot",
+    "url": "http://www.leparisien.fr/psg-foot-paris-saint-germain/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 215,
+    "title": "Leparisien.fr - Football",
+    "url": "http://www.leparisien.fr/sports/football/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 216,
+    "title": "Leparisien.fr - Les Bleus",
+    "url": "http://www.leparisien.fr/sports/equipe-france-football/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française"
+    ]
+  },
+  {
+    "id": 217,
+    "title": "Leparisien.fr - Sports Ile-de-France",
+    "url": "http://www.leparisien.fr/sports/iledefrance/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 218,
+    "title": "Leparisien.fr - Formule 1",
+    "url": "http://www.leparisien.fr/sports/formule-1/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 219,
+    "title": "Leparisien.fr - Rugby",
+    "url": "http://www.leparisien.fr/sports/rugby/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 220,
+    "title": "Leparisien.fr - Hippisme",
+    "url": "http://www.leparisien.fr/hippisme/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 221,
+    "title": "Leparisien.fr - Autres sports",
+    "url": "http://www.leparisien.fr/sports/autres/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 222,
+    "title": "Leparisien.fr - À la une",
+    "url": "http://www.leparisien.fr/laparisienne/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française"
+    ]
+  },
+  {
+    "id": 223,
+    "title": "Leparisien.fr - Beauté",
+    "url": "http://www.leparisien.fr/laparisienne/beaute/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 224,
+    "title": "Leparisien.fr - Mode",
+    "url": "http://www.leparisien.fr/laparisienne/mode/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 225,
+    "title": "Leparisien.fr - Joaillerie",
+    "url": "http://www.leparisien.fr/laparisienne/mode/bijoux-joaillerie/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 226,
+    "title": "Leparisien.fr - Santé",
+    "url": "http://www.leparisien.fr/laparisienne/sante/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 227,
+    "title": "Leparisien.fr - People",
+    "url": "http://www.leparisien.fr/laparisienne/actu-people/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 228,
+    "title": "Leparisien.fr - Évasion",
+    "url": "http://www.leparisien.fr/laparisienne/voyages/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 229,
+    "title": "Leparisien.fr - Portraits",
+    "url": "http://www.leparisien.fr/laparisienne/portrait/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 230,
+    "title": "Leparisien.fr - Déco",
+    "url": "http://www.leparisien.fr/laparisienne/deco/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 231,
+    "title": "Leparisien.fr - Cuisine",
+    "url": "http://www.leparisien.fr/laparisienne/cuisine/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 232,
+    "title": "Leparisien.fr - Recettes de cuisine",
+    "url": "http://www.leparisien.fr/laparisienne/cuisine/recette-cuisine/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 233,
+    "title": "Leparisien.fr - Recettes de cuisine pour enfants",
+    "url": "http://www.leparisien.fr/laparisienne/maman/recette-cuisine-enfant/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 234,
+    "title": "Leparisien.fr - Maman",
+    "url": "http://www.leparisien.fr/laparisienne/maman/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 235,
+    "title": "Leparisien.fr - Société",
+    "url": "http://www.leparisien.fr/laparisienne/travail/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 236,
+    "title": "Leparisien.fr - A la Une",
+    "url": "http://videos.leparisien.fr/rss.xml#xtor=RSS-1481423633",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 237,
+    "title": "Leparisien.fr - Société",
+    "url": "http://videos.leparisien.fr/societe/rss-societe.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 238,
+    "title": "Leparisien.fr - Faits Divers",
+    "url": "http://videos.leparisien.fr/faits-divers/rss-faits-divers.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 239,
+    "title": "Leparisien.fr - Politique",
+    "url": "http://videos.leparisien.fr/politique/rss-politique.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 240,
+    "title": "Leparisien.fr - La Parisienne",
+    "url": "http://videos.leparisien.fr/la-parisienne/rss-la-parisienne.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 241,
+    "title": "Leparisien.fr - People",
+    "url": "http://videos.leparisien.fr/people/rss-people.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 242,
+    "title": "Leparisien.fr - Economie",
+    "url": "http://videos.leparisien.fr/economie/rss-economie.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 243,
+    "title": "Leparisien.fr - International",
+    "url": "http://videos.leparisien.fr/international/rss-international.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 244,
+    "title": "Leparisien.fr - Sciences & High-Tech",
+    "url": "http://videos.leparisien.fr/sciences-et-high-tech/rss-sciences-et-high-tech.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média",
+      "Actualité énergie et environnement"
+    ]
+  },
+  {
+    "id": 245,
+    "title": "Leparisien.fr - Sport",
+    "url": "http://videos.leparisien.fr/sports/rss-sports.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 246,
+    "title": "Leparisien.fr - Loisirs & Spectacles",
+    "url": "http://videos.leparisien.fr/loisirs-et-spectacles/rss-loisirs-et-spectacles.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 247,
+    "title": "Leparisien.fr - Ile-de-France & Oise",
+    "url": "http://videos.leparisien.fr/ile-de-france-et-oise/rss-ile-de-france-et-oise.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 248,
+    "title": "Leparisien.fr - Rendez-vous",
+    "url": "http://videos.leparisien.fr/les-rendez-vous/rss-les-rendez-vous.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 249,
+    "title": "LeFigaro.fr - La Une",
+    "url": "http://www.lefigaro.fr/rss/figaro_actualites.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 250,
+    "title": "LeFigaro.fr - Flash Actu",
+    "url": "http://www.lefigaro.fr/rss/figaro_flash-actu.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 251,
+    "title": "LeFigaro.fr - Politique",
+    "url": "http://www.lefigaro.fr/rss/figaro_politique.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 252,
+    "title": "LeFigaro.fr - Le Scan Politique",
+    "url": "http://www.lefigaro.fr/rss/figaro_politique_le-scan.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 253,
+    "title": "LeFigaro.fr - International",
+    "url": "http://www.lefigaro.fr/rss/figaro_international.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 254,
+    "title": "LeFigaro.fr - Société",
+    "url": "http://www.lefigaro.fr/rss/figaro_actualite-france.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 255,
+    "title": "LeFigaro.fr - Vox",
+    "url": "http://www.lefigaro.fr/rss/figaro_vox.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 256,
+    "title": "LeFigaro.fr - Sciences et Environnement",
+    "url": "http://www.lefigaro.fr/rss/figaro_sciences.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité énergie et environnement"
+    ]
+  },
+  {
+    "id": 257,
+    "title": "LeFigaro.fr - Santé",
+    "url": "http://www.lefigaro.fr/rss/figaro_sante.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 258,
+    "title": "LeFigaro.fr - Blogs",
+    "url": "http://blog.lefigaro.fr/flux.php?blog=59&date=20091012",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 259,
+    "title": "LeFigaro.fr - Le Figaro Magazine",
+    "url": "http://www.lefigaro.fr/rss/figaro_lefigaromagazine.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 260,
+    "title": "LeFigaro.fr - Vidéos",
+    "url": "http://www.lefigaro.fr/rss/figaro_videos.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 261,
+    "title": "LeFigaro.fr - Photos",
+    "url": "http://www.lefigaro.fr/rss/figaro_photos.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 262,
+    "title": "LeFigaro.fr - Madame",
+    "url": "http://madame.lefigaro.fr/rss/madame.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité argent et placements",
+      "Actualité Justice, insolite, vidéos et faits-divers",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 263,
+    "title": "LeFigaro.fr - TVmag",
+    "url": "http://tvmag.lefigaro.fr/rss/tvmag.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 264,
+    "title": "LeFigaro.fr - Etudiant",
+    "url": "http://etudiant.lefigaro.fr/rss/figaro_etudiant.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité éducation, études formation et emploi"
+    ]
+  },
+  {
+    "id": 265,
+    "title": "LeFigaro.fr - La Une Eco",
+    "url": "http://www.lefigaro.fr/rss/figaro_economie.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité internationale",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 266,
+    "title": "LeFigaro.fr - Le Scan Eco",
+    "url": "http://www.lefigaro.fr/rss/figaro_economie_le-scan-eco.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 267,
+    "title": "LeFigaro.fr - Le Flash Eco",
+    "url": "http://www.lefigaro.fr/rss/figaro_flash-eco.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 268,
+    "title": "LeFigaro.fr - Sociétés",
+    "url": "http://www.lefigaro.fr/rss/figaro_societes.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 269,
+    "title": "LeFigaro.fr - Médias",
+    "url": "http://www.lefigaro.fr/rss/figaro_medias.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 270,
+    "title": "LeFigaro.fr - Tech & Web",
+    "url": "http://www.lefigaro.fr/rss/figaro_secteur_high-tech.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 271,
+    "title": "LeFigaro.fr - Immobilier",
+    "url": "http://www.lefigaro.fr/rss/figaro_immobilier.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 272,
+    "title": "LeFigaro.fr - Bourse",
+    "url": "http://www.lefigaro.fr/rss/figaro_bourse.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 273,
+    "title": "LeFigaro.fr - Assurance",
+    "url": "http://www.lefigaro.fr/rss/figaro_assurance.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 274,
+    "title": "LeFigaro.fr - Retraite",
+    "url": "http://www.lefigaro.fr/rss/figaro_retraite.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité argent et placements",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 275,
+    "title": "LeFigaro.fr - Placement",
+    "url": "http://www.lefigaro.fr/rss/figaro_placement.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité argent et placements",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 276,
+    "title": "LeFigaro.fr - Impots",
+    "url": "http://www.lefigaro.fr/rss/figaro_impots.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 277,
+    "title": "LeFigaro.fr - Consommation",
+    "url": "http://www.lefigaro.fr/rss/figaro_conso.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité argent et placements",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 278,
+    "title": "LeFigaro.fr - Emploi",
+    "url": "http://www.lefigaro.fr/rss/figaro_emploi.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto",
+      "Actualité éducation, études formation et emploi"
+    ]
+  },
+  {
+    "id": 279,
+    "title": "LeFigaro.fr - Finance Perso",
+    "url": "www.lefigaro.fr/rss/figaro_finances-perso.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 280,
+    "title": "LeFigaro.fr - Management",
+    "url": "www.lefigaro.fr/rss/figaro_management.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 281,
+    "title": "LeFigaro.fr - La Une Culture",
+    "url": "http://www.lefigaro.fr/rss/figaro_culture.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 282,
+    "title": "LeFigaro.fr - Cinema",
+    "url": "http://www.lefigaro.fr/rss/figaro_cinema.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 283,
+    "title": "LeFigaro.fr - Musique",
+    "url": "http://www.lefigaro.fr/rss/figaro_musique.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 284,
+    "title": "LeFigaro.fr - Livres",
+    "url": "http://www.lefigaro.fr/rss/figaro_livres.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 285,
+    "title": "LeFigaro.fr - Theatre",
+    "url": "http://www.lefigaro.fr/rss/figaro_theatre.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 286,
+    "title": "LeFigaro.fr - Arts et Expositions",
+    "url": "http://www.lefigaro.fr/rss/figaro_arts-expositions.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 287,
+    "title": "LeFigaro.fr - Histoire",
+    "url": "http://www.lefigaro.fr/rss/figaro_histoire.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 288,
+    "title": "LeFigaro.fr - La Une Lifestyle",
+    "url": "http://www.lefigaro.fr/rss/figaro_lifestyle.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 289,
+    "title": "LeFigaro.fr - Automobile",
+    "url": "http://www.lefigaro.fr/rss/figaro_automobile.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 290,
+    "title": "LeFigaro.fr - Gastronomie",
+    "url": "http://www.lefigaro.fr/rss/figaro_gastronomie.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 291,
+    "title": "LeFigaro.fr - Horlogerie",
+    "url": "http://www.lefigaro.fr/rss/figaro_horlogerie.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 292,
+    "title": "LeFigaro.fr - Mode Homme",
+    "url": "http://www.lefigaro.fr/rss/figaro_mode-homme.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 293,
+    "title": "LeFigaro.fr - Sortir à Paris",
+    "url": "http://www.lefigaro.fr/rss/figaro_sortir-paris.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 294,
+    "title": "LeFigaro.fr - Vins",
+    "url": "http://www.lefigaro.fr/rss/figaro_vins.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 295,
+    "title": "LeFigaro.fr - Voyages",
+    "url": "http://www.lefigaro.fr/rss/figaro_voyages.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française"
+    ]
+  },
+  {
+    "id": 296,
+    "title": "LeFigaro.fr - Jardin",
+    "url": "http://www.lefigaro.fr/rss/figaro_jardin.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 297,
+    "title": "LeFigaro.fr - La Une Sport",
+    "url": "http://sport24.lefigaro.fr/rssfeeds/sport24-accueil.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 298,
+    "title": "LeFigaro.fr - Le Scan Sport",
+    "url": "http://www.lefigaro.fr/rss/figaro_le-scan-sport.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 299,
+    "title": "LeFigaro.fr - Le Flash Sport",
+    "url": "http://sport24.lefigaro.fr/rssfeeds/figaro_flash-sport.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 300,
+    "title": "LeFigaro.fr - Football",
+    "url": "http://sport24.lefigaro.fr/rssfeeds/sport24-football.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 301,
+    "title": "LeFigaro.fr - Rugby",
+    "url": "http://sport24.lefigaro.fr/rssfeeds/sport24-rugby.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 302,
+    "title": "LeFigaro.fr - Tennis",
+    "url": "http://sport24.lefigaro.fr/rssfeeds/sport24-tennis.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 303,
+    "title": "LeFigaro.fr - Cyclisme",
+    "url": "http://sport24.lefigaro.fr/rssfeeds/sport24-cyclisme.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 304,
+    "title": "LeFigaro.fr - Golf",
+    "url": "http://golf.lefigaro.fr/rss/rss_news.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 305,
+    "title": "LeMonde.fr - à la une",
+    "url": "http://www.lemonde.fr/rss/une.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 306,
+    "title": "LeMonde.fr - les vidéos",
+    "url": "http://www.lemonde.fr/videos/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 307,
+    "title": "LeMonde.fr - actualités",
+    "url": "http://www.lemonde.fr/m-actu/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 308,
+    "title": "LeMonde.fr - Afrique",
+    "url": "http://www.lemonde.fr/afrique/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 309,
+    "title": "LeMonde.fr - Amériques",
+    "url": "http://www.lemonde.fr/ameriques/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 310,
+    "title": "LeMonde.fr - Argents et placements",
+    "url": "http://www.lemonde.fr/argent/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité argent et placements",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 311,
+    "title": "LeMonde.fr - Asie-Pacifique",
+    "url": "http://www.lemonde.fr/asie-pacifique/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 312,
+    "title": "LeMonde.fr - Campus",
+    "url": "http://www.lemonde.fr/campus/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité éducation, études formation et emploi"
+    ]
+  },
+  {
+    "id": 313,
+    "title": "LeMonde.fr - Crise financière",
+    "url": "http://www.lemonde.fr/crise-financiere/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers",
+      "Actualité internationale",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 314,
+    "title": "LeMonde.fr - Culture",
+    "url": "http://www.lemonde.fr/culture/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 315,
+    "title": "LeMonde.fr - Disparitions",
+    "url": "http://www.lemonde.fr/disparitions/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sciences, culture, arts et média"
+    ]
+  },
+  {
+    "id": 316,
+    "title": "LeMonde.fr - Documents Wikileaks",
+    "url": "http://www.lemonde.fr/documents-wikileaks/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 317,
+    "title": "LeMonde.fr - Emploi",
+    "url": "http://www.lemonde.fr/emploi/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité éducation, études formation et emploi"
+    ]
+  },
+  {
+    "id": 318,
+    "title": "LeMonde.fr - En bref",
+    "url": "http://www.lemonde.fr/en-bref/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 319,
+    "title": "LeMonde.fr - Enseignement supérieur",
+    "url": "http://www.lemonde.fr/enseignement-superieur/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers",
+      "Actualité éducation, études formation et emploi"
+    ]
+  },
+  {
+    "id": 320,
+    "title": "LeMonde.fr - Entre les lignes",
+    "url": "http://www.lemonde.fr/entre-les-lignes/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 321,
+    "title": "LeMonde.fr - Europe",
+    "url": "http://www.lemonde.fr/europe/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers",
+      "Actualité internationale",
+      "Actualité économique et finance"
+    ]
+  },
+  {
+    "id": 322,
+    "title": "LeMonde.fr - Finances",
+    "url": "http://www.lemonde.fr/finance/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers",
+      "Actualité internationale",
+      "Actualité économique et finance",
+      "Actualité argent et placements"
+    ]
+  },
+  {
+    "id": 323,
+    "title": "LeMonde.fr - Football",
+    "url": "http://www.lemonde.fr/football/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 324,
+    "title": "LeMonde.fr - Française, français",
+    "url": "http://www.lemonde.fr/francaises-francais/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité Justice, insolite, vidéos et faits-divers",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 325,
+    "title": "LeMonde.fr - Idées",
+    "url": "http://www.lemonde.fr/idees/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 326,
+    "title": "LeMonde.fr - Immobilier",
+    "url": "http://www.lemonde.fr/immobilier/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité économique et finance",
+      "Actualité argent et placements",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 327,
+    "title": "LeMonde.fr - International",
+    "url": "http://www.lemonde.fr/international/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 328,
+    "title": "LeMonde.fr - Japon",
+    "url": "http://www.lemonde.fr/japon/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 329,
+    "title": "LeMonde.fr - Jeux olympiques",
+    "url": "http://www.lemonde.fr/jeux-olympiques/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 330,
+    "title": "LeMonde.fr - Jeux vidéos",
+    "url": "http://www.lemonde.fr/jeux-video/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité numérique"
+    ]
+  },
+  {
+    "id": 331,
+    "title": "LeMonde.fr - L’authentique made in USA",
+    "url": "http://www.lemonde.fr/l-authentique-made-in-usa/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité internationale"
+    ]
+  },
+  {
+    "id": 332,
+    "title": "LeMonde.fr - L’époque",
+    "url": "http://www.lemonde.fr/m-perso/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 333,
+    "title": "LeMonde.fr - La France Insoumise",
+    "url": "http://www.lemonde.fr/la-france-insoumise/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 334,
+    "title": "LeMonde.fr - La République En Marche",
+    "url": "http://www.lemonde.fr/la-republique-en-marche/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 335,
+    "title": "LeMonde.fr - Les Décodeurs",
+    "url": "http://www.lemonde.fr/les-decodeurs/rss_full.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQN française",
+      "Actualité nationale",
+      "Actualité politique, débats et dossiers"
+    ]
+  },
+  {
+    "id": 336,
+    "title": "OutilsFroids.net",
+    "url": "http://www.outilsfroids.net/feed/",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 337,
+    "title": "BlueBoat.fr",
+    "url": "http://www.blueboat.fr/feed/",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 338,
+    "title": "CasusBelli",
+    "url": "http://meridien.canalblog.com/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 339,
+    "title": "IHEDN.fr",
+    "url": "https://www.ihedn.fr/?q=rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 340,
+    "title": "IRIS-France.org",
+    "url": "http://www.iris-france.org/feed/",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 341,
+    "title": "ActiVeille.net",
+    "url": "https://www.activeille.net/feed/",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 342,
+    "title": "Portail-IE.fr",
+    "url": "https://portail-ie.fr/flux.rss",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 343,
+    "title": "Actulligence.com",
+    "url": "http://feeds2.feedburner.com/Actulligence",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 344,
+    "title": "Archimag.com",
+    "url": "http://www.archimag.com/rss",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 345,
+    "title": "CaddE-Réputation",
+    "url": "http://cadderep.hypotheses.org/feed",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 346,
+    "title": "Digimind.com",
+    "url": "https://blog.digimind.com/fr/feed/",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 347,
+    "title": "Euresis.com",
+    "url": "http://blog.euresis.com/index.php?/feeds/index.rss2",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 348,
+    "title": "FLA-Consultants.com",
+    "url": "https://www.fla-consultants.com/fr/blog-actualites?format=feed&type=rss",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 349,
+    "title": "François Magnan",
+    "url": "http://www.francoismagnan.info/?feed=rss2",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 350,
+    "title": "InfoGuerre.fr",
+    "url": "http://feeds.feedburner.com/Infoguerre?format=xml",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 351,
+    "title": "Intelligences-Connectees.fr",
+    "url": "http://feeds.feedburner.com/IntelligencesConnectes?format=xml",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 352,
+    "title": "Les-InfoStrateges.com",
+    "url": "http://www.les-infostrateges.com/rss/cat/?num=1",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 353,
+    "title": "OutilsVeille.com",
+    "url": "https://outilsveille.com/feed/",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 354,
+    "title": "Precisement.org",
+    "url": "http://www.precisement.org/blog/spip.php?page=backend",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 355,
+    "title": "ReputatioLab.com",
+    "url": "http://www.reputatiolab.com/feed/",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 356,
+    "title": "Recherche-Eveillee.com",
+    "url": "http://www.recherche-eveillee.com/feed",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 357,
+    "title": "VeilleMag.com",
+    "url": "https://www.veillemag.com/xml/syndication.rss",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 358,
+    "title": "EGE.fr",
+    "url": "https://www.ege.fr/index.php/actualites/feed/rss/blog.feed",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 359,
+    "title": "Gouvernement.fr",
+    "url": "http://www.gouvernement.fr/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 360,
+    "title": "Huyghe.fr",
+    "url": "http://www.huyghe.fr/huyghe.rss",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 361,
+    "title": "Le Monde du Renseignement",
+    "url": "http://lemondedurenseignement.hautetfort.com/index.rss",
+    "category": [
+      "Jeu par défaut",
+      "Communauté du renseignement économique"
+    ]
+  },
+  {
+    "id": 362,
+    "title": "Lalsace.fr - A la une",
+    "url": "http://www.lalsace.fr/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 363,
+    "title": "VosgesMatin.fr - A la une",
+    "url": "http://www.vosgesmatin.fr/edition-d-epinal/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 364,
+    "title": "JHM.fr - A la une",
+    "url": "http://www.jhm.fr/feed/",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 365,
+    "title": "Republicain-Lorrain.fr - A la une",
+    "url": "http://www.republicain-lorrain.fr/edition-de-metz-ville/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 366,
+    "title": "LaDepeche.fr - Actualité",
+    "url": "https://www.ladepeche.fr/rss/home.rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 367,
+    "title": "LaDepeche.fr - A la une",
+    "url": "https://www.ladepeche.fr/rss/a-la-une.rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 368,
+    "title": "LaDepeche.fr - Grand Sud",
+    "url": "https://www.ladepeche.fr/rss/grand-sud.rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 369,
+    "title": "LaDepeche.fr - Actualité",
+    "url": "https://www.ladepeche.fr/rss/actu.rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 370,
+    "title": "LaDepeche.fr - Faits divers",
+    "url": "https://www.ladepeche.fr/rss/faits-divers.rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Justice, insolite, vidéos et faits-divers",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 371,
+    "title": "LaDepeche.fr - Economie",
+    "url": "https://www.ladepeche.fr/rss/economie.rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 372,
+    "title": "LaDepeche.fr - Sports",
+    "url": "https://www.ladepeche.fr/rss/sports.rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 373,
+    "title": "LaDepeche.fr - Santé",
+    "url": "https://www.ladepeche.fr/rss/sante.rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 374,
+    "title": "LaDepeche.fr - Insolite",
+    "url": "https://www.ladepeche.fr/rss/insolite.rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Justice, insolite, vidéos et faits-divers",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 375,
+    "title": "LaDepeche.fr - TV-People",
+    "url": "https://www.ladepeche.fr/rss/tv-people.rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 376,
+    "title": "LaDepeche.fr - Sorties",
+    "url": "https://www.ladepeche.fr/rss/sorties.rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 377,
+    "title": "LaDepeche.fr - Tourisme",
+    "url": "https://www.ladepeche.fr/rss/tourisme.rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité Justice, insolite, vidéos et faits-divers"
+    ]
+  },
+  {
+    "id": 378,
+    "title": "LaDepeche.fr - Newletter",
+    "url": "https://www.ladepeche.fr/rss/newsletter.rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 379,
+    "title": "MidiLibre.fr - A la une",
+    "url": "http://www.midilibre.fr/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 380,
+    "title": "CentrePresseAveyron.fr - A la une",
+    "url": "http://www.centrepresseaveyron.fr/rss/general.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 381,
+    "title": "SudOuest.fr - A la une",
+    "url": "http://www.sudouest.fr/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 382,
+    "title": "SudOuest.fr - Cinéma",
+    "url": "http://www.sudouest.fr/culture/cinema/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 383,
+    "title": "SudOuest.fr - Economie",
+    "url": "http://www.sudouest.fr/economie/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 384,
+    "title": "SudOuest.fr - Emploi",
+    "url": "http://www.sudouest.fr/economie/emploi/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 385,
+    "title": "SudOuest.fr - Environnement",
+    "url": "http://www.sudouest.fr/environnement/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 386,
+    "title": "SudOuest.fr - Faits divers",
+    "url": "http://www.sudouest.fr/unes/faits-divers/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 387,
+    "title": "SudOuest.fr - Gastronomie",
+    "url": "http://www.sudouest.fr/gastronomie/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Justice, insolite, vidéos et faits-divers",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 388,
+    "title": "SudOuest.fr - Politique",
+    "url": "http://www.sudouest.fr/politique/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 389,
+    "title": "SudOuest.fr - Santé",
+    "url": "http://www.sudouest.fr/politique/sante/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 390,
+    "title": "SudOuest.fr - Sports",
+    "url": "http://www.sudouest.fr/unes/sports/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 391,
+    "title": "SudOuest.fr - Tourisme",
+    "url": "http://www.sudouest.fr/economie/tourisme/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 392,
+    "title": "SudOuest.fr - Vins",
+    "url": "http://www.sudouest.fr/vins/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 393,
+    "title": "CharenteLibre.fr - A la une",
+    "url": "www.charentelibre.fr/actualite/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 394,
+    "title": "CharenteLibre.fr - Faits divers",
+    "url": "http://www.charentelibre.fr/faits-divers/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Justice, insolite, vidéos et faits-divers",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 395,
+    "title": "CharenteLibre.fr - Sports",
+    "url": "http://www.charentelibre.fr/sport/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 396,
+    "title": "LeTelegramme.fr - A la une",
+    "url": "http://www.letelegramme.fr/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 397,
+    "title": "LeTelegramme.fr - Actualité",
+    "url": "http://www.letelegramme.fr/actualite/fil-info/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 398,
+    "title": "LeTelegramme.fr - Monde",
+    "url": "http://www.letelegramme.fr/monde/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 399,
+    "title": "LeTelegramme.fr - France",
+    "url": "http://www.letelegramme.fr/france/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 400,
+    "title": "LeTelegramme.fr - Bretagne",
+    "url": "http://www.letelegramme.fr/bretagne/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 401,
+    "title": "LeTelegramme.fr - Voile",
+    "url": "http://www.letelegramme.fr/voile/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 402,
+    "title": "LeTelegramme.fr - Sports",
+    "url": "http://www.letelegramme.fr/sports/rss.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 403,
+    "title": "LaNouvelleRepublique.fr - A la une",
+    "url": "https://www.lanouvellerepublique.fr/api/v1/rss/592bf255489a4555008b4568",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 404,
+    "title": "CentrePresse.fr - A la une",
+    "url": "http://www.centre-presse.fr/rss.php",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 405,
+    "title": "LaProvence.com - Actualité",
+    "url": "http://www.laprovence.com/rss/Region.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 406,
+    "title": "LaProvence.com - En direct",
+    "url": "http://www.laprovence.com/rss/Region-en-direct.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 407,
+    "title": "LaProvence.com - France",
+    "url": "http://www.laprovence.com/rss/France.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 408,
+    "title": "LaProvence.com - Politique",
+    "url": "http://www.laprovence.com/rss/Politique.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 409,
+    "title": "LaProvence.com - Monde",
+    "url": "http://www.laprovence.com/rss/Monde.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 410,
+    "title": "LaProvence.com - Faits divers",
+    "url": "http://www.laprovence.com/rss/faits-divers-justice.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Justice, insolite, vidéos et faits-divers",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 411,
+    "title": "LaProvence.com - Info-trafic",
+    "url": "http://www.laprovence.com/rss/info-trafic.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité vie quotidienne, santé et auto-moto",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 412,
+    "title": "LaProvence.com - Célébrités",
+    "url": "http://www.laprovence.com/rss/people.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 413,
+    "title": "LaProvence.com - Auto-moto",
+    "url": "http://www.laprovence.com/rss/Auto-Moto.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 414,
+    "title": "LaProvence.com - Multimédia",
+    "url": "http://www.laprovence.com/rss/multimedia.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité vie quotidienne, santé et auto-moto",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 415,
+    "title": "LaProvence.com - Santé",
+    "url": "http://www.laprovence.com/rss/sante.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité vie quotidienne, santé et auto-moto"
+    ]
+  },
+  {
+    "id": 416,
+    "title": "LaProvence.com - Elections",
+    "url": "http://www.laprovence.com/rss/elections-municipales.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 417,
+    "title": "LaProvence.com - Politique en direct",
+    "url": "http://www.laprovence.com/rss/politique-en-direct.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 418,
+    "title": "LaProvence.com - Economie",
+    "url": "http://www.laprovence.com/rss/Economie-A-la-une.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 419,
+    "title": "LaProvence.com - Economie – direct",
+    "url": "http://www.laprovence.com/rss/Economie-en-direct.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 420,
+    "title": "LaProvence.com - Economie – France/Monde",
+    "url": "http://www.laprovence.com/rss/Economie-France-Monde.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 421,
+    "title": "LaProvence.com - Economie – emploi",
+    "url": "http://www.laprovence.com/rss/Economie-Emploi.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 422,
+    "title": "LaProvence.com - Economie – Argent",
+    "url": "http://www.laprovence.com/rss/Economie-Argent.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 423,
+    "title": "LaProvence.com - Economie – Immobilier",
+    "url": "http://www.laprovence.com/rss/Economie-Immobilier.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 424,
+    "title": "LaProvence.com - OM – Actualités",
+    "url": "http://www.laprovence.com/rss/OM-Actualites-A-la-une.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 425,
+    "title": "LaProvence.com - OM – le Direct",
+    "url": "http://www.laprovence.com/rss/OM-Le-Direct.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 426,
+    "title": "LaProvence.com - OM",
+    "url": "http://www.laprovence.com/rss/rss_om.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 427,
+    "title": "LaProvence.com - Sports",
+    "url": "http://www.laprovence.com/rss/Sports.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 428,
+    "title": "LaProvence.com - Sports en direct",
+    "url": "http://www.laprovence.com/rss/Sports-en-direct.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 429,
+    "title": "LaProvence.com - Sports Région",
+    "url": "http://www.laprovence.com/rss/Sport-Region.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 430,
+    "title": "LaProvence.com - Foot",
+    "url": "http://www.laprovence.com/rss/foot.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 431,
+    "title": "LaProvence.com - Natation",
+    "url": "http://www.laprovence.com/rss/natation.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 432,
+    "title": "LaProvence.com - Rugby",
+    "url": "http://www.laprovence.com/rss/rugby.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 433,
+    "title": "LaProvence.com - Voile",
+    "url": "http://www.laprovence.com/rss/voile.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 434,
+    "title": "LaProvence.com - Loisirs",
+    "url": "http://www.laprovence.com/rss/Loisirs.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 435,
+    "title": "LaProvence.com - Loisirs en direct",
+    "url": "http://www.laprovence.com/rss/loisirs-en-direct.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 436,
+    "title": "LaProvence.com - Spectacles",
+    "url": "http://www.laprovence.com/rss/spectacles.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 437,
+    "title": "LaProvence.com - Télévision",
+    "url": "http://www.laprovence.com/rss/télé.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 438,
+    "title": "LaProvence.com - Voyages",
+    "url": "http://www.laprovence.com/rss/voyages.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 439,
+    "title": "LaProvence.com - Cinéma",
+    "url": "http://www.laprovence.com/rss/cinema.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 440,
+    "title": "LaProvence.com - Montagne",
+    "url": "http://www.laprovence.com/rss/montagne.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 441,
+    "title": "LaProvence.com - Jeux vidéos",
+    "url": "http://www.laprovence.com/rss/jeux-video.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 442,
+    "title": "LaProvence.com - Balades",
+    "url": "http://www.laprovence.com/rss/balades.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 443,
+    "title": "LaProvence.com - Mer",
+    "url": "http://www.laprovence.com/rss/mer.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 444,
+    "title": "LaProvence.com - Elles&co",
+    "url": "http://www.laprovence.com/rss/Elles-co.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 445,
+    "title": "LaProvence.com - Flash",
+    "url": "http://www.laprovence.com/rss/flash.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 446,
+    "title": "LaProvence.com - Beauté",
+    "url": "http://www.laprovence.com/rss/beaute.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 447,
+    "title": "LaProvence.com - Mode",
+    "url": "http://www.laprovence.com/rss/mode.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 448,
+    "title": "LaProvence.com - Shopping",
+    "url": "http://www.laprovence.com/rss/shopping.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 449,
+    "title": "LaProvence.com - Famille",
+    "url": "http://www.laprovence.com/rss/famille.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité vie quotidienne, santé et auto-moto",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 450,
+    "title": "LaProvence.com - Saveurs",
+    "url": "http://www.laprovence.com/rss/saveurs.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 451,
+    "title": "LaProvence.com - Déco-temps libre",
+    "url": "http://www.laprovence.com/rss/deco-temps-libre.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 452,
+    "title": "LaProvence.com - Nutrition",
+    "url": "http://www.laprovence.com/rss/nutrition.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 453,
+    "title": "LaProvence.com - Forme",
+    "url": "http://www.laprovence.com/rss/forme.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 454,
+    "title": "LaProvence.com - Psychologie",
+    "url": "http://www.laprovence.com/rss/psycho.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 455,
+    "title": "LaProvence.com - Sexo",
+    "url": "http://www.laprovence.com/rss/sexo.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Style, déco, famille et mode de vie",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 456,
+    "title": "LaProvence.com - Aix-Pays d’Aix",
+    "url": "http://www.laprovence.com/rss/aix-pays-daix.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 457,
+    "title": "LaProvence.com - Alpes",
+    "url": "http://www.laprovence.com/rss/alpes.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 458,
+    "title": "LaProvence.com - Arles",
+    "url": "http://www.laprovence.com/rss/arles.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 459,
+    "title": "LaProvence.com - Edition Aubagne",
+    "url": "http://www.laprovence.com/rss/edition-aubagne.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 460,
+    "title": "LaProvence.com - Edition La Ciotat",
+    "url": "http://www.laprovence.com/rss/edition-la-ciotat.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 461,
+    "title": "LaProvence.com - Avignon – Grand Avignon",
+    "url": "http://www.laprovence.com/rss/avignon-grand-avignon.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 462,
+    "title": "LaProvence.com - Carpentras – Comtat",
+    "url": "http://www.laprovence.com/rss/carpentras-comtat.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 463,
+    "title": "LaProvence.com - Vitrolles – Marignane",
+    "url": "http://www.laprovence.com/rss/vitrolles-marignane.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 464,
+    "title": "LaProvence.com - Haut-Vaucluse",
+    "url": "http://www.laprovence.com/rss/haut-vaucluse.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 465,
+    "title": "LaProvence.com - Marseille",
+    "url": "http://www.laprovence.com/rss/marseille.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 466,
+    "title": "LaProvence.com - Martigues-Istres",
+    "url": "http://www.laprovence.com/rss/martigues-istres.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 467,
+    "title": "LaProvence.com - Salon",
+    "url": "http://www.laprovence.com/rss/salon.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 468,
+    "title": "LaProvence.com - Sud-Vaucluse",
+    "url": "http://www.laprovence.com/rss/sud-vaucluse.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 469,
+    "title": "CorseMatin.com - A la une",
+    "url": "http://www.corsematin.com/corse/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 470,
+    "title": "CorseMatin.com - Dernière minute",
+    "url": "http://www.corsematin.com/derniere-minute/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 471,
+    "title": "CorseMatin.com - Faits divers",
+    "url": "http://www.corsematin.com/faits-divers/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 472,
+    "title": "CorseMatin.com - Politique",
+    "url": "http://www.corsematin.com/politique/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 473,
+    "title": "CorseMatin.com - Justice",
+    "url": "http://www.corsematin.com/justice/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Justice, insolite, vidéos et faits-divers",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 474,
+    "title": "CorseMatin.com - Société",
+    "url": "http://www.corsematin.com/societe/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 475,
+    "title": "CorseMatin.com - Economie",
+    "url": "http://www.corsematin.com/economie/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 476,
+    "title": "CorseMatin.com - Santé",
+    "url": "http://www.corsematin.com/sante/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 477,
+    "title": "CorseMatin.com - Culture et loisirs",
+    "url": "http://www.corsematin.com/culture-et-loisirs/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 478,
+    "title": "CorseMatin.com - Auto-moto",
+    "url": "http://www.corsematin.com/automoto/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 479,
+    "title": "CorseMatin.com - Célébrités",
+    "url": "http://www.corsematin.com/people/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 480,
+    "title": "CorseMatin.com - Etudiants",
+    "url": "http://www.corsematin.com/etudiants/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 481,
+    "title": "CorseMatin.com - France",
+    "url": "http://www.corsematin.com/france/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 482,
+    "title": "CorseMatin.com - Monde",
+    "url": "http://www.corsematin.com/monde/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 483,
+    "title": "CorseMatin.com - Sports",
+    "url": "http://www.corsematin.com/sports/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 484,
+    "title": "CorseMatin.com - Football",
+    "url": "http://www.corsematin.com/football/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 485,
+    "title": "CorseMatin.com - AC-Ajaccio",
+    "url": "http://www.corsematin.com/ac-ajaccio/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 486,
+    "title": "CorseMatin.com - SC-Bastia",
+    "url": "http://www.corsematin.com/sc-bastia/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 487,
+    "title": "CorseMatin.com - Sports mécaniques",
+    "url": "http://www.corsematin.com/sports-mecaniques/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 488,
+    "title": "CorseMatin.com - Autres sports",
+    "url": "http://www.corsematin.com/autres-sports/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 489,
+    "title": "CorseMatin.com - Haute-Corse",
+    "url": "http://www.corsematin.com/haute-corse/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 490,
+    "title": "CorseMatin.com - Bastia",
+    "url": "http://www.corsematin.com/communes/Bastia/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 491,
+    "title": "CorseMatin.com - Calvi",
+    "url": "http://www.corsematin.com/communes/Calvi/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 492,
+    "title": "CorseMatin.com - Corte",
+    "url": "http://www.corsematin.com/communes/Corte/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 493,
+    "title": "CorseMatin.com - Corse du Sud",
+    "url": "http://www.corsematin.com/corse-du-sud/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 494,
+    "title": "CorseMatin.com - Ajaccio",
+    "url": "http://www.corsematin.com/communes/Ajaccio/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française"
+    ]
+  },
+  {
+    "id": 495,
+    "title": "CorseMatin.com - Sartene",
+    "url": "http://www.corsematin.com/communes/Sartene/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 496,
+    "title": "CorseMatin.com - Porto-Vecchio",
+    "url": "http://www.corsematin.com/communes/Porto-Vecchio/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 497,
+    "title": "CorseMatin.com - Plaine orientale",
+    "url": "http://www.corsematin.com/plaine-orientale/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 498,
+    "title": "NiceMatin.com - Côte d’Azur",
+    "url": "http://www.nicematin.com/cote-dazur/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 499,
+    "title": "NiceMatin.com - Faits divers",
+    "url": "http://www.nicematin.com/derniere-minute/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 500,
+    "title": "NiceMatin.com - Politique",
+    "url": "http://www.nicematin.com/faits-divers/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 501,
+    "title": "NiceMatin.com - Justice",
+    "url": "http://www.nicematin.com/politique/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Justice, insolite, vidéos et faits-divers",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 502,
+    "title": "NiceMatin.com - Société",
+    "url": "http://www.nicematin.com/justice/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 503,
+    "title": "NiceMatin.com - Economie",
+    "url": "http://www.nicematin.com/societe/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 504,
+    "title": "NiceMatin.com - Economie",
+    "url": "http://www.nicematin.com/economie/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 505,
+    "title": "NiceMatin.com - Santé",
+    "url": "http://www.nicematin.com/sante/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 506,
+    "title": "NiceMatin.com - Culture et loisirs",
+    "url": "http://www.nicematin.com/culture-et-loisirs/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 507,
+    "title": "NiceMatin.com - Auto-moto",
+    "url": "http://www.nicematin.com/automoto/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 508,
+    "title": "NiceMatin.com - Célébrités",
+    "url": "http://www.nicematin.com/people/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 509,
+    "title": "NiceMatin.com - France",
+    "url": "http://www.nicematin.com/france/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 510,
+    "title": "NiceMatin.com - Monde",
+    "url": "http://www.nicematin.com/monde/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 511,
+    "title": "NiceMatin.com - Sports",
+    "url": "http://www.nicematin.com/sports/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 512,
+    "title": "NiceMatin.com - Football",
+    "url": "http://www.nicematin.com/football/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 513,
+    "title": "NiceMatin.com - OGC Nice",
+    "url": "http://www.nicematin.com/ogc-nice/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 514,
+    "title": "NiceMatin.com - AS Monaco",
+    "url": "http://www.nicematin.com/as-monaco/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 515,
+    "title": "NiceMatin.com - AS Cannes",
+    "url": "http://www.nicematin.com/as-cannes/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 516,
+    "title": "NiceMatin.com - Rugby",
+    "url": "http://www.nicematin.com/rugby/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 517,
+    "title": "NiceMatin.com - RCT",
+    "url": "http://www.nicematin.com/rct/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 518,
+    "title": "NiceMatin.com - Basket",
+    "url": "http://www.nicematin.com/basket/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 519,
+    "title": "NiceMatin.com - Volley",
+    "url": "http://www.nicematin.com/volley/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 520,
+    "title": "NiceMatin.com - Sports nautiques",
+    "url": "http://www.nicematin.com/sports-nautiques/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 521,
+    "title": "NiceMatin.com - Cyclisme",
+    "url": "http://www.nicematin.com/cyclisme/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 522,
+    "title": "NiceMatin.com - Tennis",
+    "url": "http://www.nicematin.com/tennis/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 523,
+    "title": "NiceMatin.com - Autres sports",
+    "url": "http://www.nicematin.com/autres-sports/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 524,
+    "title": "NiceMatin.com - Antibes",
+    "url": "http://www.nicematin.com/communes/Antibes/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 525,
+    "title": "NiceMatin.com - Cagnes sur mer",
+    "url": "http://www.nicematin.com/communes/Cagnes-sur-Mer/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 526,
+    "title": "NiceMatin.com - Canne",
+    "url": "http://www.nicematin.com/communes/Cannes/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 527,
+    "title": "NiceMatin.com - Grasse",
+    "url": "http://www.nicematin.com/communes/Grasse/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 528,
+    "title": "NiceMatin.com - Menton",
+    "url": "http://www.nicematin.com/communes/Menton/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 529,
+    "title": "NiceMatin.com - Nice",
+    "url": "http://www.nicematin.com/communes/Nice/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 530,
+    "title": "NiceMatin.com - Monaco",
+    "url": "http://www.nicematin.com/communes/Monaco/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 531,
+    "title": "NiceMatin.com - Vallées",
+    "url": "http://www.nicematin.com/communes/Vallees/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 532,
+    "title": "L-Echo.info - A la une",
+    "url": "http://www.l-echo.info/flux.xml",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 533,
+    "title": "VarMatin.com - Var",
+    "url": "http://www.varmatin.com/var/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 534,
+    "title": "VarMatin.com - Dernière minute",
+    "url": "http://www.varmatin.com/derniere-minute/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 535,
+    "title": "VarMatin.com - Faits divers",
+    "url": "http://www.varmatin.com/faits-divers/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Justice, insolite, vidéos et faits-divers",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 536,
+    "title": "VarMatin.com - Politique",
+    "url": "http://www.varmatin.com/politique/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 537,
+    "title": "VarMatin.com - Justice",
+    "url": "http://www.varmatin.com/justice/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité Justice, insolite, vidéos et faits-divers",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 538,
+    "title": "VarMatin.com - Société",
+    "url": "http://www.varmatin.com/societe/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 539,
+    "title": "VarMatin.com - Economie",
+    "url": "http://www.varmatin.com/economie/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 540,
+    "title": "VarMatin.com - Santé",
+    "url": "http://www.varmatin.com/sante/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 541,
+    "title": "VarMatin.com - Culture et loisirs",
+    "url": "http://www.varmatin.com/culture-et-loisirs/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 542,
+    "title": "VarMatin.com - Auto-moto",
+    "url": "http://www.varmatin.com/automoto/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 543,
+    "title": "VarMatin.com - Célébrités",
+    "url": "http://www.varmatin.com/people/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 544,
+    "title": "VarMatin.com - France",
+    "url": "http://www.varmatin.com/france/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 545,
+    "title": "VarMatin.com - Monde",
+    "url": "http://www.varmatin.com/monde/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 546,
+    "title": "VarMatin.com - Sports",
+    "url": "http://www.varmatin.com/sports/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 547,
+    "title": "VarMatin.com - Rugby",
+    "url": "http://www.varmatin.com/rugby/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 548,
+    "title": "VarMatin.com - RCT",
+    "url": "http://www.varmatin.com/rct/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 549,
+    "title": "VarMatin.com - Football",
+    "url": "http://www.varmatin.com/football/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 550,
+    "title": "VarMatin.com - Basket",
+    "url": "http://www.varmatin.com/basket/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 551,
+    "title": "VarMatin.com - Volley",
+    "url": "http://www.varmatin.com/volley/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 552,
+    "title": "VarMatin.com - Sports nautiques",
+    "url": "http://www.varmatin.com/sports-nautiques/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 553,
+    "title": "VarMatin.com - Handball",
+    "url": "http://www.varmatin.com/handball/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 554,
+    "title": "VarMatin.com - Autres sports",
+    "url": "http://www.varmatin.com/autres-sports/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité sports"
+    ]
+  },
+  {
+    "id": 555,
+    "title": "VarMatin.com - Brignoles",
+    "url": "http://www.varmatin.com/communes/Brignoles/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 556,
+    "title": "VarMatin.com - Draguignan",
+    "url": "http://www.varmatin.com/communes/Draguignan/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 557,
+    "title": "VarMatin.com - Frejus",
+    "url": "http://www.varmatin.com/communes/Frejus/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 558,
+    "title": "VarMatin.com - Gapeau",
+    "url": "http://www.varmatin.com/communes/Gapeau/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 559,
+    "title": "VarMatin.com - Hyeres",
+    "url": "http://www.varmatin.com/communes/Hyeres/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 560,
+    "title": "VarMatin.com - La Seyne sur mer",
+    "url": "http://www.varmatin.com/communes/La-Seyne-sur-Mer/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 561,
+    "title": "VarMatin.com - Saint Tropez",
+    "url": "http://www.varmatin.com/communes/Saint-Tropez/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  },
+  {
+    "id": 562,
+    "title": "VarMatin.com - Toulon",
+    "url": "http://www.varmatin.com/communes/Toulon/rss",
+    "category": [
+      "Jeu par défaut",
+      "PQR française",
+      "Actualité locale et sorties"
+    ]
+  }
+]
